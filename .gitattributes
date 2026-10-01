@@ -1,0 +1,2 @@
+models/job_tfidf.npz filter=lfs diff=lfs merge=lfs -text
+models/job_metadata.csv filter=lfs diff=lfs merge=lfs -text

@@ -1,9 +1,11 @@
 pandas
 numpy
 scikit-learn
+scipy
+joblib
+streamlit
+pypdf
 matplotlib
 seaborn
 jupyter
-streamlit
-pypdf
 pytest
