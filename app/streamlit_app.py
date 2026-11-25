@@ -149,6 +149,9 @@ st.markdown(
         opacity: 1 !important;
     }
     /* Analyze Resume button */
+    div.stButton > button {
+        color: #ffffff !important;
+    }
     [data-testid="stBaseButton-primary"] {
         background-color: #176B5B !important;
         border-color: #176B5B !important;
